@@ -174,7 +174,7 @@ func didGetMountPointsSuccess(_ socketUtil: HCSocketUtil) {
 }
 ```
 
-##### 5.差分数账号设置(SetDiffInfoVC)
+##### 5.差分账号设置(SetDiffInfoVC)
 
 ##### 选择挂载点时，需要使用Socket去获取挂载点。
 
