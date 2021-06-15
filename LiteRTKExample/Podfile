@@ -1,0 +1,16 @@
+source 'https://github.com/CocoaPods/Specs.git'
+
+platform :ios, '10.0'
+
+inhibit_all_warnings!
+
+target 'LiteRTKExample' do
+  use_frameworks!
+
+  pod 'SnapKit', '~> 5.0.0'
+  pod 'SwiftyJSON', '~> 4.0'
+  pod 'Toast-Swift', '~> 5.0.0'
+  pod 'MJExtension', '~> 3.2.4'
+  pod 'IQKeyboardManagerSwift', '~> 6.5.4'
+  
+end

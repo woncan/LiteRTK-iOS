@@ -1,0 +1,14 @@
+.DS_Store
+.idea
+target
+*.class
+.iml
+node_module
+*.xcuserstate
+*.xcuserdatad
+*.opendb
+Testing
+cmake-build-debu
+pkg
+cmake-build-debug
+UserInterfaceState.xcuserstate
