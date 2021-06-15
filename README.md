@@ -1,4 +1,4 @@
-## LiteRTK-iOS接入指南
+## LiteRTK-iOS接入指南（暂时仅支持真机调试）
 
 ####  一、下载demo代码。[链接地址](https://github.com/woncan/LiteRTK)
 
